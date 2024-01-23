@@ -1,0 +1,25 @@
+ ul{
+      list-style-type: none;
+      margin: -10px;
+      padding: 0px;
+      background-color: violet;
+      overflow: hidden;
+    }
+
+    li{
+      float: left;
+    }
+    li a{
+      padding: 25px;
+      display: block;
+      text-decoration: white;
+      color: whitesmoke;
+    }
+    li a:hover{
+      background-color: slategrey;
+    }
+       h1{
+      text-align: center;
+      font-family: "Century Schoolbook L";
+      background-color: navajowhite;
+    }
